@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" preserve-order="true">
+	<test name="whatslive test">
+		<classes>
+			<!-- <class name="com.ugc.testcase.HomePageTest" /> -->
+			<class name="com.ugc.testcase.VideoCaptureTest" />
+			<!--<class name="testcase.LiveCaptureTest" /> -->
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

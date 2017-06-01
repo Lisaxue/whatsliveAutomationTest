@@ -1,0 +1,190 @@
+[2017-06-01 19:52:48,564] INFO  com.ugc.utils.TestBaseCase －－－initial Appium server capabilities－－－
+[2017-06-01 19:52:48,567] INFO  com.ugc.utils.TestBaseCase －－－Set appium server address(http://127.0.0.1) and port number(4723) in URL string－－－
+[2017-06-01 19:52:57,333] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:52:57,505] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:53:01,368] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:53:01,585] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:53:05,604] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:53:05,763] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:53:07,939] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:53:10,948] INFO  com.ugc.utils.TestBaseCase --首页水平左滑结束--
+[2017-06-01 19:53:12,129] INFO  com.ugc.utils.ElementAction click元素：广场[By.id:com.letv.whatslive:id/main_square]成功！
+[2017-06-01 19:53:12,129] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:53:15,132] INFO  com.ugc.utils.Assertion 验证是否切换至广场页面成功！:【Assert验证】:页面是否出现【预期值：24h轮播】字符串
+[2017-06-01 19:53:15,936] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 19:53:16,268] INFO  com.ugc.utils.ElementAction click元素：首页[By.id:com.letv.whatslive:id/main_home]成功！
+[2017-06-01 19:53:16,268] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:53:19,270] INFO  com.ugc.utils.TestBaseCase --首页面切换结束--
+[2017-06-01 19:53:21,238] INFO  com.ugc.utils.TestBaseCase －－－driver endUp－－－
+[2017-06-01 19:56:10,534] INFO  com.ugc.utils.TestBaseCase －－－initial Appium server capabilities－－－
+[2017-06-01 19:56:10,537] INFO  com.ugc.utils.TestBaseCase －－－Set appium server address(http://127.0.0.1) and port number(4723) in URL string－－－
+[2017-06-01 19:56:17,404] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:56:17,563] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:56:21,299] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:56:21,471] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:56:25,236] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:56:25,411] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:56:27,567] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:56:30,571] INFO  com.ugc.utils.TestBaseCase --首页水平左滑结束--
+[2017-06-01 19:56:31,700] INFO  com.ugc.utils.ElementAction click元素：广场[By.id:com.letv.whatslive:id/main_square]成功！
+[2017-06-01 19:56:31,701] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:56:34,703] INFO  com.ugc.utils.Assertion 验证是否切换至广场页面成功！:【Assert验证】:页面是否出现【预期值：24h轮播】字符串
+[2017-06-01 19:56:34,850] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 19:56:35,024] INFO  com.ugc.utils.ElementAction click元素：首页[By.id:com.letv.whatslive:id/main_home]成功！
+[2017-06-01 19:56:35,024] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:56:38,028] INFO  com.ugc.utils.TestBaseCase --首页面切换结束--
+[2017-06-01 19:56:40,860] INFO  com.ugc.utils.ElementAction click元素：首页直播[By.id:com.letv.whatslive:id/main_occupied]成功！
+[2017-06-01 19:56:40,861] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 19:56:41,961] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 19:57:03,743] INFO  com.ugc.utils.ElementAction 超时无法定位页面元素
+[2017-06-01 19:57:05,349] ERROR com.ugc.utils.ScreenShot 错误截图：/Users/chenxuejiao/StudyDocs/HiMaven/whatslive-appium2/test-output/snapshot//2017-06-01 195704075.jpg
+[2017-06-01 19:57:05,350] INFO  com.ugc.utils.ElementAction 2017-06-01 195704075
+[2017-06-01 19:57:26,498] INFO  com.ugc.utils.ElementAction 超时无法定位页面元素
+[2017-06-01 19:57:27,671] ERROR com.ugc.utils.ScreenShot 错误截图：/Users/chenxuejiao/StudyDocs/HiMaven/whatslive-appium2/test-output/snapshot//2017-06-01 195726503.jpg
+[2017-06-01 19:57:27,671] INFO  com.ugc.utils.ElementAction 2017-06-01 195726503
+[2017-06-01 19:57:49,088] INFO  com.ugc.utils.ElementAction 超时无法定位页面元素
+[2017-06-01 19:57:50,237] ERROR com.ugc.utils.ScreenShot 错误截图：/Users/chenxuejiao/StudyDocs/HiMaven/whatslive-appium2/test-output/snapshot//2017-06-01 195749093.jpg
+[2017-06-01 19:57:50,237] INFO  com.ugc.utils.ElementAction 2017-06-01 195749093
+[2017-06-01 19:58:11,426] INFO  com.ugc.utils.ElementAction 超时无法定位页面元素
+[2017-06-01 19:58:12,604] ERROR com.ugc.utils.ScreenShot 错误截图：/Users/chenxuejiao/StudyDocs/HiMaven/whatslive-appium2/test-output/snapshot//2017-06-01 195811430.jpg
+[2017-06-01 19:58:12,605] INFO  com.ugc.utils.ElementAction 2017-06-01 195811430
+[2017-06-01 19:58:12,606] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 19:58:21,820] INFO  com.ugc.utils.TestBaseCase －－－initial Appium server capabilities－－－
+[2017-06-01 19:58:21,822] INFO  com.ugc.utils.TestBaseCase －－－Set appium server address(http://127.0.0.1) and port number(4723) in URL string－－－
+[2017-06-01 19:58:32,651] INFO  com.ugc.utils.ElementAction 超时无法定位页面元素
+[2017-06-01 19:58:34,112] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:58:34,276] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:58:38,202] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:58:38,418] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:58:42,261] INFO  com.ugc.utils.ElementAction 元素显示状态为：true
+[2017-06-01 19:58:42,491] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 19:58:44,671] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:58:47,681] INFO  com.ugc.utils.TestBaseCase --首页水平左滑结束--
+[2017-06-01 19:58:48,734] INFO  com.ugc.utils.ElementAction click元素：广场[By.id:com.letv.whatslive:id/main_square]成功！
+[2017-06-01 19:58:48,735] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:58:51,739] INFO  com.ugc.utils.Assertion 验证是否切换至广场页面成功！:【Assert验证】:页面是否出现【预期值：24h轮播】字符串
+[2017-06-01 19:58:51,899] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 19:58:52,077] INFO  com.ugc.utils.ElementAction click元素：首页[By.id:com.letv.whatslive:id/main_home]成功！
+[2017-06-01 19:58:52,078] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 19:58:55,078] INFO  com.ugc.utils.TestBaseCase --首页面切换结束--
+[2017-06-01 19:58:57,157] INFO  com.ugc.utils.TestBaseCase －－－driver endUp－－－
+[2017-06-01 20:00:07,171] INFO  com.ugc.utils.TestBaseCase －－－initial Appium server capabilities－－－
+[2017-06-01 20:00:07,173] INFO  com.ugc.utils.TestBaseCase －－－Set appium server address(http://127.0.0.1) and port number(4723) in URL string－－－
+[2017-06-01 20:00:10,647] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 20:00:14,021] INFO  com.ugc.utils.ElementAction click元素：首页直播[By.id:com.letv.whatslive:id/main_occupied]成功！
+[2017-06-01 20:00:14,021] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:00:15,097] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:00:16,281] INFO  com.ugc.utils.ElementAction click元素：拍视频[By.id:com.letv.whatslive:id/video_recorder_iv]成功！
+[2017-06-01 20:00:16,281] INFO  com.ugc.utils.ElementAction 等待5秒
+[2017-06-01 20:00:21,519] INFO  com.ugc.utils.ElementAction click元素：结束拍摄[By.id:com.letv.whatslive:id/video_recorder_stop_iv]成功！
+[2017-06-01 20:00:21,519] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 20:00:25,155] INFO  com.ugc.utils.ElementAction click元素：发布[By.id:com.letv.whatslive:id/setlive_broadcast]成功！
+[2017-06-01 20:00:25,155] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:00:30,310] INFO  com.ugc.utils.ElementAction click元素：草稿箱返回[By.id:com.letv.whatslive:id/title_left_btn]成功！
+[2017-06-01 20:00:30,310] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:00:32,315] INFO  com.ugc.utils.Assertion 是否返回至首页成功！:【Assert验证】:页面是否出现【预期值：首页】字符串
+[2017-06-01 20:00:42,604] ERROR com.ugc.utils.Assertion 【Assert验证  failed!】
+[2017-06-01 20:00:43,782] ERROR com.ugc.utils.ScreenShot 错误截图：/Users/chenxuejiao/StudyDocs/HiMaven/whatslive-appium2/test-output/snapshot//2017-06-01 200042608.jpg
+[2017-06-01 20:00:43,784] INFO  com.ugc.utils.TestBaseCase －－－－第1次拍视频结束－－－－
+[2017-06-01 20:00:43,785] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 20:01:04,943] INFO  com.ugc.utils.ElementAction 超时无法定位页面元素
+[2017-06-01 20:01:06,346] ERROR com.ugc.utils.ScreenShot 错误截图：/Users/chenxuejiao/StudyDocs/HiMaven/whatslive-appium2/test-output/snapshot//2017-06-01 200105251.jpg
+[2017-06-01 20:01:06,347] INFO  com.ugc.utils.ElementAction 2017-06-01 200105251
+[2017-06-01 20:01:32,165] INFO  com.ugc.utils.TestBaseCase －－－initial Appium server capabilities－－－
+[2017-06-01 20:01:32,167] INFO  com.ugc.utils.TestBaseCase －－－Set appium server address(http://127.0.0.1) and port number(4723) in URL string－－－
+[2017-06-01 20:01:55,774] INFO  com.ugc.utils.TestBaseCase －－－initial Appium server capabilities－－－
+[2017-06-01 20:01:55,776] INFO  com.ugc.utils.TestBaseCase －－－Set appium server address(http://127.0.0.1) and port number(4723) in URL string－－－
+[2017-06-01 20:02:01,035] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 20:02:04,437] INFO  com.ugc.utils.ElementAction click元素：首页直播[By.id:com.letv.whatslive:id/main_occupied]成功！
+[2017-06-01 20:02:04,438] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:02:05,507] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:02:06,666] INFO  com.ugc.utils.ElementAction click元素：拍视频[By.id:com.letv.whatslive:id/video_recorder_iv]成功！
+[2017-06-01 20:02:06,667] INFO  com.ugc.utils.ElementAction 等待5秒
+[2017-06-01 20:02:11,912] INFO  com.ugc.utils.ElementAction click元素：结束拍摄[By.id:com.letv.whatslive:id/video_recorder_stop_iv]成功！
+[2017-06-01 20:02:11,913] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 20:02:15,425] INFO  com.ugc.utils.ElementAction click元素：发布[By.id:com.letv.whatslive:id/setlive_broadcast]成功！
+[2017-06-01 20:02:15,426] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:02:17,786] INFO  com.ugc.utils.ElementAction click元素：草稿箱返回[By.id:com.letv.whatslive:id/title_left_btn]成功！
+[2017-06-01 20:02:17,786] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:02:19,795] INFO  com.ugc.utils.Assertion 是否返回至首页成功！:【Assert验证】:页面是否出现【预期值：首页】字符串
+[2017-06-01 20:02:19,926] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 20:02:19,929] INFO  com.ugc.utils.TestBaseCase －－－－第1次拍视频结束－－－－
+[2017-06-01 20:02:19,930] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 20:02:20,117] INFO  com.ugc.utils.ElementAction click元素：首页直播[By.id:com.letv.whatslive:id/main_occupied]成功！
+[2017-06-01 20:02:20,118] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:02:21,243] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:02:22,746] INFO  com.ugc.utils.ElementAction click元素：拍视频[By.id:com.letv.whatslive:id/video_recorder_iv]成功！
+[2017-06-01 20:02:22,747] INFO  com.ugc.utils.ElementAction 等待5秒
+[2017-06-01 20:02:27,994] INFO  com.ugc.utils.ElementAction click元素：结束拍摄[By.id:com.letv.whatslive:id/video_recorder_stop_iv]成功！
+[2017-06-01 20:02:27,994] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 20:02:31,457] INFO  com.ugc.utils.ElementAction click元素：发布[By.id:com.letv.whatslive:id/setlive_broadcast]成功！
+[2017-06-01 20:02:31,457] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:02:33,804] INFO  com.ugc.utils.ElementAction click元素：草稿箱返回[By.id:com.letv.whatslive:id/title_left_btn]成功！
+[2017-06-01 20:02:33,804] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:02:35,807] INFO  com.ugc.utils.Assertion 是否返回至首页成功！:【Assert验证】:页面是否出现【预期值：首页】字符串
+[2017-06-01 20:02:35,903] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 20:02:35,904] INFO  com.ugc.utils.TestBaseCase －－－－第2次拍视频结束－－－－
+[2017-06-01 20:02:35,905] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 20:02:36,083] INFO  com.ugc.utils.ElementAction click元素：首页直播[By.id:com.letv.whatslive:id/main_occupied]成功！
+[2017-06-01 20:02:36,083] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:02:37,192] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:02:38,737] INFO  com.ugc.utils.ElementAction click元素：拍视频[By.id:com.letv.whatslive:id/video_recorder_iv]成功！
+[2017-06-01 20:02:38,737] INFO  com.ugc.utils.ElementAction 等待5秒
+[2017-06-01 20:02:43,953] INFO  com.ugc.utils.ElementAction click元素：结束拍摄[By.id:com.letv.whatslive:id/video_recorder_stop_iv]成功！
+[2017-06-01 20:02:43,953] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 20:02:47,388] INFO  com.ugc.utils.ElementAction click元素：发布[By.id:com.letv.whatslive:id/setlive_broadcast]成功！
+[2017-06-01 20:02:47,389] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:02:49,788] INFO  com.ugc.utils.ElementAction click元素：草稿箱返回[By.id:com.letv.whatslive:id/title_left_btn]成功！
+[2017-06-01 20:02:49,788] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:02:51,792] INFO  com.ugc.utils.Assertion 是否返回至首页成功！:【Assert验证】:页面是否出现【预期值：首页】字符串
+[2017-06-01 20:02:51,908] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 20:02:51,908] INFO  com.ugc.utils.TestBaseCase －－－－第3次拍视频结束－－－－
+[2017-06-01 20:02:54,145] INFO  com.ugc.utils.TestBaseCase －－－driver endUp－－－
+[2017-06-01 20:07:30,015] INFO  com.ugc.utils.TestBaseCase －－－initial Appium server capabilities－－－
+[2017-06-01 20:07:30,017] INFO  com.ugc.utils.TestBaseCase －－－Set appium server address(http://127.0.0.1) and port number(4723) in URL string－－－
+[2017-06-01 20:07:33,506] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 20:07:36,896] INFO  com.ugc.utils.ElementAction click元素：首页直播[By.id:com.letv.whatslive:id/main_occupied]成功！
+[2017-06-01 20:07:36,896] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:07:37,966] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:07:39,120] INFO  com.ugc.utils.ElementAction click元素：拍视频[By.id:com.letv.whatslive:id/video_recorder_iv]成功！
+[2017-06-01 20:07:39,120] INFO  com.ugc.utils.ElementAction 等待5秒
+[2017-06-01 20:07:44,377] INFO  com.ugc.utils.ElementAction click元素：结束拍摄[By.id:com.letv.whatslive:id/video_recorder_stop_iv]成功！
+[2017-06-01 20:07:44,377] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 20:07:47,893] INFO  com.ugc.utils.ElementAction click元素：发布[By.id:com.letv.whatslive:id/setlive_broadcast]成功！
+[2017-06-01 20:07:47,893] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:07:50,264] INFO  com.ugc.utils.ElementAction click元素：草稿箱返回[By.id:com.letv.whatslive:id/title_left_btn]成功！
+[2017-06-01 20:07:50,265] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:07:52,272] INFO  com.ugc.utils.Assertion 是否返回至首页成功！:【Assert验证】:页面是否出现【预期值：首页】字符串
+[2017-06-01 20:07:52,428] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 20:07:52,431] INFO  com.ugc.utils.TestBaseCase －－－－第1次拍视频结束－－－－
+[2017-06-01 20:07:52,432] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 20:07:52,650] INFO  com.ugc.utils.ElementAction click元素：首页直播[By.id:com.letv.whatslive:id/main_occupied]成功！
+[2017-06-01 20:07:52,650] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:07:53,732] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:07:55,152] INFO  com.ugc.utils.ElementAction click元素：拍视频[By.id:com.letv.whatslive:id/video_recorder_iv]成功！
+[2017-06-01 20:07:55,152] INFO  com.ugc.utils.ElementAction 等待5秒
+[2017-06-01 20:08:00,407] INFO  com.ugc.utils.ElementAction click元素：结束拍摄[By.id:com.letv.whatslive:id/video_recorder_stop_iv]成功！
+[2017-06-01 20:08:00,407] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 20:08:03,916] INFO  com.ugc.utils.ElementAction click元素：发布[By.id:com.letv.whatslive:id/setlive_broadcast]成功！
+[2017-06-01 20:08:03,916] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:08:06,279] INFO  com.ugc.utils.ElementAction click元素：草稿箱返回[By.id:com.letv.whatslive:id/title_left_btn]成功！
+[2017-06-01 20:08:06,279] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:08:08,279] INFO  com.ugc.utils.Assertion 是否返回至首页成功！:【Assert验证】:页面是否出现【预期值：首页】字符串
+[2017-06-01 20:08:08,433] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 20:08:08,434] INFO  com.ugc.utils.TestBaseCase －－－－第2次拍视频结束－－－－
+[2017-06-01 20:08:08,434] INFO  com.ugc.utils.TestBaseCase －－－点击首页拍视频，进入录视频准备页－－－
+[2017-06-01 20:08:08,711] INFO  com.ugc.utils.ElementAction click元素：首页直播[By.id:com.letv.whatslive:id/main_occupied]成功！
+[2017-06-01 20:08:08,711] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:08:09,800] INFO  com.ugc.utils.ElementAction 等待1秒
+[2017-06-01 20:08:11,284] INFO  com.ugc.utils.ElementAction click元素：拍视频[By.id:com.letv.whatslive:id/video_recorder_iv]成功！
+[2017-06-01 20:08:11,284] INFO  com.ugc.utils.ElementAction 等待5秒
+[2017-06-01 20:08:16,535] INFO  com.ugc.utils.ElementAction click元素：结束拍摄[By.id:com.letv.whatslive:id/video_recorder_stop_iv]成功！
+[2017-06-01 20:08:16,535] INFO  com.ugc.utils.ElementAction 等待3秒
+[2017-06-01 20:08:19,971] INFO  com.ugc.utils.ElementAction click元素：发布[By.id:com.letv.whatslive:id/setlive_broadcast]成功！
+[2017-06-01 20:08:19,971] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:08:22,325] INFO  com.ugc.utils.ElementAction click元素：草稿箱返回[By.id:com.letv.whatslive:id/title_left_btn]成功！
+[2017-06-01 20:08:22,326] INFO  com.ugc.utils.ElementAction 等待2秒
+[2017-06-01 20:08:24,328] INFO  com.ugc.utils.Assertion 是否返回至首页成功！:【Assert验证】:页面是否出现【预期值：首页】字符串
+[2017-06-01 20:08:24,408] INFO  com.ugc.utils.Assertion 【Assert验证  pass!】
+[2017-06-01 20:08:24,409] INFO  com.ugc.utils.TestBaseCase －－－－第3次拍视频结束－－－－
+[2017-06-01 20:08:26,379] INFO  com.ugc.utils.TestBaseCase －－－driver endUp－－－

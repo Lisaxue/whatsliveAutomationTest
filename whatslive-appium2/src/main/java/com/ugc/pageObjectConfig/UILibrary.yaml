@@ -1,0 +1,53 @@
+pages:
+    - page:
+        pageName: com.ugc.pageObject.HomePage
+        value: ""
+        desc: "乐嗨直播APP首页"
+        locators:
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/main_home", desc: "首页", name: "首页"}          
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/main_square", desc: "广场", name: "广场"}  
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/main_occupied", desc: "首页直播", name: "首页直播"}       
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/location_tv", desc: "地理位置", name: "位置"}
+          
+    - page:
+        pageName: com.ugc.pageObject.StartPage
+        value: ""
+        desc: "乐嗨直播APP启动首页"
+        locators:
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/bt_weibo", desc: "微博", name: "微博"}          
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/bt_weixin", desc: "微信", name: "微信"}  
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/bt_qq", desc: "qq", name: "qq"}   
+    - page:
+        pageName: com.ugc.pageObject.LoginPage
+        value: ""
+        desc: "乐嗨直播APP微信登录页"
+        locators:
+           - {type: "xpath", timeout: "3", value: "//android.widget.EditText[@text='QQ号/微信号/Email']", desc: "微信帐号", name: "微信账号输入框"}          
+           - {type: "xpath", timeout: "3", value: "//android.widget.EditText[@NAF='true']", desc: "微信密码", name: "微信密码输入框"}  
+           - {type: "id", timeout: "3", value: "com.tencent.mm:id/b9r", desc: "微信登录", name: "微信登录按钮"}    
+           - {type: "id", timeout: "3", value: "com.tencent.mobileqq:id/account", desc: "qq帐号", name: "qq账号输入框"}          
+           - {type: "id", timeout: "3", value: "com.tencent.mobileqq:id/password", desc: "qq密码", name: "qq密码输入框"}  
+           - {type: "className", timeout: "3", value: "android.widget.Button", desc: "qq登录", name: "qq登录按钮"}
+    - page:
+        pageName: com.ugc.pageObject.VideoPage
+        value: ""
+        desc: "乐嗨直播APP拍视频页"
+        locators: 
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/video_recorder_iv", desc: "拍视频", name: "拍视频"}    
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/video_recorder_stop_iv", desc: "结束拍摄", name: "结束拍摄"}         
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/setlive_broadcast", desc: "发布视频", name: "发布"}
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/title_left_btn", desc: "草稿箱返回", name: "草稿箱返回"}  
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/user_center_back_ll", desc: "个人中心页返回", name: "个人中心页返回"}  
+    - page:
+        pageName: com.ugc.pageObject.LivePage
+        value: ""
+        desc: "乐嗨直播APP发直播页"
+        locators: 
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/setlive_edit", desc: "设置直播标题", name: "标题"}    
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/setliveinfo_camera_iv", desc: "拍摄直播封面", name: "拍摄封面"}         
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/privacy_toggle", desc: "私密直播", name: "私密"}
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/setlive_broadcast", desc: "立即直播", name: "立即直播"}  
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/close_stream_iv", desc: "关闭直播", name: "关闭"} 
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/dialog_right_btn", desc: "确认关闭", name: "确认关闭"} 
+           - {type: "id", timeout: "3", value: "com.letv.whatslive:id/livend_confirm_btn", desc: "直播结束页确定按钮", name: "确定"} 
+           
